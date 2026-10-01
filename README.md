@@ -1,17 +1,17 @@
 # GPA Calculator
 
-A lightweight Java application designed to calculate term and cumulative GPAs based on course credit hours and letter grade inputs.
+This Java application is designed to calculate term and cumulative GPAs based on course credit hours and letter grade inputs.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack:
 
 * **Language:** Java
 * **Tools:** Java SDK / Command Line Interface
 
 ---
 
-## ✨ Key Features
+## Key Features:
 
 * **Weighted GPA Computation:** Automatically calculates weighted credit-hour GPAs.
 * **Standard Grading Scale:** Converts standard letter grades (A, B, C, D, F) into numeric grade points.
@@ -19,7 +19,7 @@ A lightweight Java application designed to calculate term and cumulative GPAs ba
 
 ---
 
-## 🚀 How to Run
+## How to Run:
 
 1. **Clone the Repository:**
    ```bash
